@@ -217,7 +217,6 @@
 		B0CC528A1CD0A6B200E24E35 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				LIBRARY_SEARCH_PATHS = "\"$(SRCROOT)/../../../../Library/Developer/Xcode/DerivedData/CGPDFHacks-dahcfxigwzjygagicjpeyciwcgaq/Build/Products/Debug/\"";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -225,7 +224,6 @@
 		B0CC528B1CD0A6B200E24E35 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				LIBRARY_SEARCH_PATHS = "\"$(SRCROOT)/../../../../Library/Developer/Xcode/DerivedData/CGPDFHacks-dahcfxigwzjygagicjpeyciwcgaq/Build/Products/Debug/\"";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
